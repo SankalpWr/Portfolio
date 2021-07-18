@@ -92,8 +92,8 @@ export const ImgWrap = styled.div`
 `;
 
 export const Img = styled.img`
-  width: 600%;
-  height: 600%;
+  width: 400%;
+  height: 400%;
   margin: 0 0 10px 0;
   padding-right: 0;
 `;
