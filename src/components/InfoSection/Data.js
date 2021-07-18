@@ -26,16 +26,16 @@ export const homeObjTwo = {
     "C       ,       JAVASCRIPT      ,       HTML   ,      CSS        ,      REACT      ,       NODEJS      ,       PYTHON , PHOTOSHOP",
   description: (
     <p>
-      <a href="https://dcjusticeposting.herokuapp.com/ <br>">
+      <a href="https://dcjusticeposting.herokuapp.com/ ">
         {" "}
         <em>Dynamic Website Project(News Journal)</em> <br />
         <br />
       </a>{" "}
-      <a href="https://sankalpwr.github.io/Payment-Gateway-/ <br>">
+      <a href="https://sankalpwr.github.io/Payment-Gateway-/">
         <em>Payment Gateway Integration(TSP)</em>
         <br /> <br />
       </a>{" "}
-      <a href="https://github.com/SankalpWr/SNAKE-GAME- <br>">
+      <a href="https://github.com/SankalpWr/SNAKE-GAME-">
         <em>Snake Game</em>
       </a>{" "}
       <br /> <br />
