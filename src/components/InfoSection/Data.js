@@ -46,7 +46,7 @@ export const homeObjTwo = {
         Former Intern at -<br />
         :Chhattisgarh Software Solutions
         <br />
-        :<a href="https://drive.google.com/file/d/1kRbaKBL24GB8vD3jhf2gKMaYBg3bU-n5/view" title="The Sparks Foundation">Visit our HTML Tutorial</a>
+        :<a href="https://drive.google.com/file/d/1kRbaKBL24GB8vD3jhf2gKMaYBg3bU-n5/view" > The Sparks Foundation </a>
       </em>
     </p>
   ),
