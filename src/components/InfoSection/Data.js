@@ -35,8 +35,8 @@ export const homeObjTwo = {
         <em>Payment Gateway Integration(TSP)</em>
         <br /> <br />
       </a>{" "}
-      <a href="https://github.com/SankalpWr/SNAKE-GAME-">
-        <em>Snake Game</em>
+      <a href="https://todolist-lrhkl54lo-sankalpwr.vercel.app/">
+        <em>TODO List</em>
       </a>{" "}
       <br /> <br />
       <br /> <br />
